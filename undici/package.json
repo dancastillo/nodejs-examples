@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "undici": "^5.15.0"
+    "undici": "^6.23.0"
   }
 }
